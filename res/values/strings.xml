@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Duolingo</string>
+
+    <string name="configuration_help">Enter your username.\nIf you enter http://www.duolingo.com and you get redirected to \"http://duolingo.com/#/John\" then your username is \"John\"</string>
+    <string name="configuration_create">Create widget</string>
+    <string name="configuration_hint">Write your username</string>
+    <string name="configuration_username_error">Please insert an username</string>
+
+    <string name="widget_progress" formatted="false">%d/%d in level %d</string>
+</resources>
