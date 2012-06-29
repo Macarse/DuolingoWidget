@@ -1,0 +1,4 @@
+DuolingoWidget
+==============
+
+Duolingo Android widget
